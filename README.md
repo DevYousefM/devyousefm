@@ -34,7 +34,7 @@ Hi, I’m Yousef Mohamed, a Full Stack Web Developer skilled in React and Larave
 
 ###
 
-<div align="center">
+<div align="center" width="500">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
