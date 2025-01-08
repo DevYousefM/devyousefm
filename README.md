@@ -5,7 +5,9 @@
 
 ###
 
-<p align="left">Hello, I'm Yousef Mohamed, a seasoned Full Stack Web Developer with a passion for continuous learning and professional growth. I possess extensive expertise in both front-end and back-end development techniques.</p>
+<p align="left">
+Hi, I’m Yousef Mohamed, a Full Stack Web Developer skilled in React and Laravel, with a passion for learning and improving. 
+</p>
 
 ###
 
