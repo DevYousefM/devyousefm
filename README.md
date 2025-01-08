@@ -1,5 +1,4 @@
 
-<br clear="both">
 
 <h2 align="center">Hello! I'm Yousef Mohamed</h2>
 
