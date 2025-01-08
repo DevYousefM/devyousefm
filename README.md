@@ -9,6 +9,14 @@
 Hi, I’m Yousef Mohamed, a Full Stack Web Developer skilled in React and Laravel, with a passion for learning and improving. 
 </p>
 
+
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Software+Engineer;Full+Stack+Developer;Freelancer&center=true&width=380&height=45&color=#fff">
+	</a>
+</p>
+
+
 ###
 
 - 🔭 I’m currently working on <a href="https://www.linkedin.com/company/scopelinks/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BVziTTJQlR%2B6OCd0Yil6NZQ%3D%3D">Scope Links LLC.</a>
