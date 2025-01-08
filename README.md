@@ -84,8 +84,8 @@ Hi, I’m Yousef Mohamed, a Full Stack Web Developer skilled in React and Larave
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devyousefm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="240" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devyousefm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=react&hide_border=true&order=2" height="240" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=devyousefm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="245" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devyousefm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=react&hide_border=true&order=2" height="245" alt="languages graph"  />
 </div>
 
 ###
