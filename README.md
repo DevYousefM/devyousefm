@@ -16,9 +16,6 @@ Hi, I’m Yousef Mohamed, a Full Stack Web Developer skilled in React and Larave
 	</a>
 </p>
 
-
-###
-
 - 🔭 I’m currently working on <a href="https://www.linkedin.com/company/scopelinks/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BVziTTJQlR%2B6OCd0Yil6NZQ%3D%3D">Scope Links LLC.</a>
 - 🌱 I’m currently learning C# and exploring how it complements backend development.
 - 👯 I’m looking to collaborate on Laravel-based projects, API development, or backend system architecture.
