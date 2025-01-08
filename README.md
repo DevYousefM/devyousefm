@@ -1,12 +1,12 @@
 
 
-<h2 align="center">Hello! I'm Yousef Mohamed</h2>
+<h1 align="center">Hello! I'm Yousef Mohamed</h1>
 
 ###
 
-<p align="left">
+<h4 align="left">
 Hi, I’m Yousef Mohamed, a Full Stack Web Developer skilled in React and Laravel, with a passion for learning and improving. 
-</p>
+</h4>
 
 
 <p align="center">
@@ -29,7 +29,7 @@ Hi, I’m Yousef Mohamed, a Full Stack Web Developer skilled in React and Larave
 
 ###
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 
 ###
 
@@ -92,7 +92,7 @@ Hi, I’m Yousef Mohamed, a Full Stack Web Developer skilled in React and Larave
 
 ###
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 
 ###
 
